@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://ruhutovuje.pages.dev/sitemap.xml
